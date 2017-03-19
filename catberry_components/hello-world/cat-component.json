@@ -1,0 +1,6 @@
+{
+	"name": "hello-world",
+	"template": "./hello.pug",
+	"errorTemplate": "./error.pug",
+	"logic": "./HelloWorld.js"
+}
