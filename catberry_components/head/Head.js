@@ -3,7 +3,7 @@
 /*
  * This is a Catberry Cat-component file.
  * More details can be found here
- * http://catberry.org/documentation#cat-components-interface
+ * https://github.com/catberry/catberry/blob/master/docs/index.md#cat-components-interface
  */
 
 class Head {
